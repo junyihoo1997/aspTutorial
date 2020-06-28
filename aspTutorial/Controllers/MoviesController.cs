@@ -18,7 +18,7 @@ namespace aspTutorial.Controllers
 
             var customers = new List<Customer>
             {
-                new Customer{Name="Customer 1"},
+                new Customer{Name="Customer 21"},
                 new Customer{Name="Customer 2"}
             };
 
